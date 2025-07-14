@@ -1,3 +1,4 @@
 setuptools
 wheel
+gunicorn
 # ...existing requirements if needed...
